@@ -1,16 +1,12 @@
-## Hi there 👋
+<h3 align="center">
+  Some other projects I worked on collaboratively with <a href="https://github.com/isabellwaas">Isabell Waas</a> and other people can be found in the following GitHub organization:
+</h3>
 
-<!--
-**stevensolleder/stevensolleder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h1> <a href="https://github.com/TeamGruenbaum">🌳 TeamGruenbaum</a> </h1>
+    </summary>
+  </ul>
+</div>
