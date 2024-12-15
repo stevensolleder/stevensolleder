@@ -1,1 +1,1 @@
-Some other projects I worked on collaboratively with <a href="https://github.com/isabellwaas">Isabell Waas</a> and other people can be found in the following GitHub organization: <b><a href="https://github.com/TeamGruenbaum">🌳 TeamGruenbaum</a></b>
+Some other projects I worked on collaboratively with <a href="https://github.com/isabellwaas">Isabell Waas</a> and other people can be found in the following GitHub organization: <b>🌳 <a href="https://github.com/TeamGruenbaum">TeamGruenbaum</a></b>
